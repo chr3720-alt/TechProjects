@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rohit
 
-🚀 Engineering student passionate about **Embedded Systems, AI, Robotics, and Space Communication**
+🚀 Engineering student passionate about **Embedded Systems, AI, Robotics, VLSI, and Space Communication**
 
 ---
 
@@ -60,6 +60,10 @@ https://github.com/chr3720-alt/SMART-HELMET-USING-ESP32
 A Python-based simulation of an automated railway crossing safety system. The program detects an approaching train and automatically triggers gate control logic to close and reopen the crossing, demonstrating how software can be used to design intelligent transportation safety systems.
 https://github.com/chr3720-alt/Automatic-Railway-Gate-System
 ---
+🚗 A Robust Multi-Sensor Fusion Framework for Autonomous Vehicles
+
+A research-focused project that integrates data from multiple sensors such as cameras, LiDAR, radar, and IMU to improve perception and decision-making in autonomous vehicles. 
+The system combines sensor data to enhance object detection, localization, and navigation reliability.
 
 ## 🔭 Future Projects
 
