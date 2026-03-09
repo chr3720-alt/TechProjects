@@ -42,6 +42,7 @@ A wearable assistive communication system that detects hand gestures using motio
 A wireless robotic car equipped with a camera for real-time monitoring and remote navigation. The system demonstrates embedded motor control, wireless communication, and mobile robotics.
 
 ---
+https://github.com/chr3720-alt/RC-Camera-Car
 ### 🪖 Smart Safety Helmet
 
 A smart helmet designed to improve rider safety by integrating sensors and embedded systems to monitor conditions such as helmet usage, accident detection, and environmental awareness. The system can provide alerts and safety notifications to enhance rider protection.
@@ -51,6 +52,8 @@ Key Features:
 - Accident detection system
 - Sensor-based environmental monitoring
 - Embedded safety alert system
+
+https://github.com/chr3720-alt/SMART-HELMET-USING-ESP32
 
 ### 🚦 Automatic Railway Gate System
 
