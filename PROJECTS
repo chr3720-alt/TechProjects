@@ -1,0 +1,67 @@
+# 👋 Hi, I'm Rohit
+
+🚀 Engineering student passionate about **Embedded Systems, AI, Robotics, and Space Communication**
+
+---
+
+## 🧠 About Me
+
+* 🔬 Building hardware + AI systems
+* 🤖 Interested in Robotics and Embedded Systems
+* 📡 Exploring Optical and Satellite Communication
+* 🚀 Love building futuristic technology projects
+
+---
+
+## 🛠 Tech Stack
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino)
+![ESP32](https://img.shields.io/badge/ESP32-red)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange)
+![Python](https://img.shields.io/badge/Python-blue)
+![Embedded C](https://img.shields.io/badge/Embedded-C-green)
+
+---
+
+## 🚀 Projects
+
+### 📡 Laser-Based Satellite Communication
+
+MATLAB simulation of a laser communication system where an image is converted into laser pulse trains, transmitted, modulated using External Amplitude Modulation (EAM), and reconstructed at the receiver to demonstrate secure optical data transmission.
+
+---
+
+### 🧠 Gesture-Based Assistive Communication (TinyML + FSK)
+
+A wearable assistive communication system that detects hand gestures using motion sensors and converts them into text or speech output using TinyML and wireless communication.
+
+---
+
+### 🚗 RC Camera Car
+
+A wireless robotic car equipped with a camera for real-time monitoring and remote navigation. The system demonstrates embedded motor control, wireless communication, and mobile robotics.
+
+---
+
+### 🚦 Automatic Railway Gate System
+
+An embedded automation system designed to improve railway crossing safety by automatically opening and closing gates when a train is detected.
+
+---
+
+## 🔭 Future Projects
+
+* Brain Computer Interface Communication System
+* AI Smart Helmet for Safety Monitoring
+* Optical Communication Hardware Prototype
+* Autonomous AI Drone Navigation System
+
+---
+
+## 📊 GitHub Stats
+
+![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true)
+
+---
+
+⭐ Always learning, experimenting, and building innovative technology.
