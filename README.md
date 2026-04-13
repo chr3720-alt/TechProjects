@@ -43,14 +43,16 @@ I'm a VLSI design enthusiast with a strong focus on digital circuit design, hard
 
 ## 📌 Featured Projects
 
-### [Project Name 1](https://github.com/chr3720-alt/project-1)
-Brief description of your VLSI design project, technology node, and key achievements.
+### [🧠 Gesture-Based Assistive Communication (TinyML)](https://github.com/chr3720-alt/Gesture-Based-Assistive-Communication-Using-TinyML)
 
-### [Project Name 2](https://github.com/chr3720-alt/project-2)
-Brief description of your circuit design project and its significance.
+A wearable assistive communication system that detects hand gestures using motion sensors and converts them into text or speech output using TinyML and wireless communication.
 
-### [Project Name 3](https://github.com/chr3720-alt/project-3)
-Brief description of your design automation or verification project.
+### [🪖 Smart Safety Helmet](https://github.com/chr3720-alt/SMART-HELMET-USING-ESP32)
+
+A smart helmet designed to improve rider safety by integrating sensors and embedded systems to monitor conditions such as helmet usage, accident detection, and environmental awareness. The system can provide alerts and safety notifications to enhance rider protection.
+
+### [🪖 FPGA-Based-Real-Time-3D-Wound-Assessment-Using-Structured-Light-for-Telemedicine-Triage](https://github.com/chr3720-alt/FPGA-Based-Real-Time-3D-Wound-Assessment-Using-Structured-Light-for-Telemedicine-Triage)
+FPGA-based real-time 3D wound assessment system using laser-line structured light triangulation for non-contact estimation of wound depth, area, and approximate volume. Features FPGA-accelerated laser extraction, 3D reconstruction, and telemedicine dashboard visualization for remote clinical triage support.
 
 ## 📊 GitHub Stats
 
