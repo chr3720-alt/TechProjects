@@ -51,7 +51,7 @@ A wearable assistive communication system that detects hand gestures using motio
 
 A smart helmet designed to improve rider safety by integrating sensors and embedded systems to monitor conditions such as helmet usage, accident detection, and environmental awareness. The system can provide alerts and safety notifications to enhance rider protection.
 
-### [🪖 FPGA-Based-Real-Time-3D-Wound-Assessment-Using-Structured-Light-for-Telemedicine-Triage](https://github.com/chr3720-alt/FPGA-Based-Real-Time-3D-Wound-Assessment-Using-Structured-Light-for-Telemedicine-Triage)
+### [FPGA-Based-Real-Time-Breath-Analysis-for-Alzheimer-s-Detection](https://github.com/chr3720-alt/FPGA-Based-Real-Time-3D-Wound-Assessment-Using-Structured-Light-for-Telemedicine-Triage)
 FPGA-based real-time 3D wound assessment system using laser-line structured light triangulation for non-contact estimation of wound depth, area, and approximate volume. Features FPGA-accelerated laser extraction, 3D reconstruction, and telemedicine dashboard visualization for remote clinical triage support.
 
 ## 📊 GitHub Stats
